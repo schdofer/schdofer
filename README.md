@@ -1,4 +1,4 @@
-### Oi, eu sou o Fernando 👋
+### Olá! 👋
 
 ![](https://komarev.com/ghpvc/?username=schdofer&color=blue&style=flat)
 
@@ -43,6 +43,9 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
   <br />  
 
+### Aprenda com os tutoriais abaixo
+  - [Git](https://githhub.com/schdofeer/git)
+  
   
 <!--
 **schdofer/schdofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
