@@ -45,6 +45,7 @@
 
 ### Aprenda com os tutoriais abaixo
   - [Git](https://github.com/schdofer/git)
+  - [Scrum](https://github.com/schdofer/scrum)
   
   
 <!--
