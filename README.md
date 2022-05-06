@@ -46,6 +46,8 @@
 ### Aprenda com os tutoriais abaixo
   - [Git](https://github.com/schdofer/git)
   - [Scrum](https://github.com/schdofer/scrum)
+  - [CSS](https://github.com/schdofer/css)
+  - [Dicas VSCode](https://github.com/schdofer/vscode-tips)
   
   
 <!--
