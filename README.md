@@ -44,7 +44,7 @@
   <br />  
 
 ### Aprenda com os tutoriais abaixo
-  - [Git](https://githhub.com/schdofeer/git)
+  - [Git](https://github.com/schdofer/git)
   
   
 <!--
