@@ -48,7 +48,14 @@
   - [Scrum](https://github.com/schdofer/scrum)
   - [CSS](https://github.com/schdofer/css)
   - [Dicas VSCode](https://github.com/schdofer/vscode-tips)
-  
+
+### Algumas brincadeiras
+  - **Tic Tac Toe**
+    - [Repositório Git](https://github.com/schdofer/tic-tac-toe)
+    - [Play Game](https://schdofer.github.io/tic-tac-toe/)
+  - **Gênius Memory Game**
+    - [Repositório Git](https://github.com/schdofer/genius-memory-game)
+    - [Play Game](https://schdofer.github.io/genius-memory-game/)
   
 <!--
 **schdofer/schdofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
