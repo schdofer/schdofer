@@ -56,7 +56,10 @@
   - **Gênius Memory Game**
     - [Repositório Git](https://github.com/schdofer/genius-memory-game)
     - [Play Game](https://schdofer.github.io/genius-memory-game/)
-- **Rescue Helicopter Game**
+- **Dino Game**
+    - [Repositório Git](https://github.com/schdofer/dino-game)
+    - [Play Game](https://schdofer.github.io/dino-game/)
+  - **Rescue Helicopter Game**
     - [Repositório Git](https://github.com/schdofer/rescue-helicopter-game)
     - [Play Game](https://schdofer.github.io/rescue-helicopter-game/)
   
