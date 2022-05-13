@@ -59,9 +59,9 @@
 - **Dino Game**
     - [Repositório Git](https://github.com/schdofer/dino-game)
     - [Play Game](https://schdofer.github.io/dino-game/)
-  - **Rescue Helicopter Game**
-    - [Repositório Git](https://github.com/schdofer/rescue-helicopter-game)
-    - [Play Game](https://schdofer.github.io/rescue-helicopter-game/)
+- **Rescue Helicopter Game**
+  - [Repositório Git](https://github.com/schdofer/rescue-helicopter-game)
+  - [Play Game](https://schdofer.github.io/rescue-helicopter-game/)
   
 <!--
 **schdofer/schdofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
