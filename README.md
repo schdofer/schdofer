@@ -59,6 +59,9 @@
 - **Dino Game**
     - [Repositório Git](https://github.com/schdofer/dino-game)
     - [Play Game](https://schdofer.github.io/dino-game/)
+- **Space Shooter**
+    - [Repositório Git](https://github.com/schdofer/space-shooter)
+    - [Play Game](https://schdofer.github.io/space-shooter/)  
 - **Rescue Helicopter Game**
   - [Repositório Git](https://github.com/schdofer/rescue-helicopter-game)
   - [Play Game](https://schdofer.github.io/rescue-helicopter-game/)
